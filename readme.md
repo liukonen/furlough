@@ -8,4 +8,4 @@ This is just to go over what my focus / learnings have been on my time off work 
   - [Day 5](Day05.md)
   
 - Week 2
-  - Day 6
+  - [Day 6](day06.md)
