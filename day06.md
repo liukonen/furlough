@@ -1,3 +1,4 @@
+# Day 6
 - Started off the morning learning Git [Team Services Git Tutorial](https://channel9.msdn.com/series/Team-Services-Git-Tutorial)
 	- I knew get already, and have a good base understanding
 	- Not too many differences between it and TFS... other then Checkins are not the same as Checkins, as Checkins in TFS are a checkin and a push in Git

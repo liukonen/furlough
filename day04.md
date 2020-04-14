@@ -1,4 +1,4 @@
-Day 4: 
+# Day 4: 
 - CICD in Azure function (git and deploy automatically from repo) and using azure pipes. [Go serverless: Serverless operations with Azure DevOps](https://channel9.msdn.com/Shows/Azure-Friday/Go-serverless-Serverless-operations-with-Azure-DevOps)
 	- really didnt get a lot out of this... since most of it had everything to do with configuring a pipeline to deploy code through a pipeline and into a hosted server
 - grpc [Building-Microservices-with-gRPC-and-NET](https://channel9.msdn.com/Shows/The-Cloud-Native-Show/Building-Microservices-with-gRPC-and-NET) and [intro to grpc](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Introduction-to-gRPC?term=grpc&lang-en=true) 

@@ -1,4 +1,4 @@
-First work day off 
+# First work day off 
 Learnings I chose to focus on include design patterns such as 
 - cascading, 
 - abstract factory, 
