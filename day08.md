@@ -1,4 +1,4 @@
-# Day 7
+# Day 8
 
 Started the day off late, since I thought my landlord would show up at some time in the morning, as water is dripping from my bathroom walls again.
 That said. Started googling design patterns again, since I wanted to keep it a bit light today. 
