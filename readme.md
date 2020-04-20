@@ -13,3 +13,5 @@ This is just to go over what my focus / learnings have been on my time off work 
   - [Day 8](day08.md)
   - [Day 9](day09.md)
   - [Day 10](day10.md)
+- Week 3
+  - Day 11
