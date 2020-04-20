@@ -6,3 +6,5 @@ Decided and recomended I spend some time on JQuery,
 
 - First half of the day was videos 1-4
 - Second half, videos 5-7
+
+![](https://en.wikipedia.org/wiki/JQuery#/media/File:JQuery_logo.svg)
