@@ -4,7 +4,7 @@ This is actually a continuation of day 12.
 After my last update, I kept chugging along with converting Tic Tac Math to a Javascript based web app.
 
 Made the app 100% client side, implemented Jquery calls along with using 3rd party tools, mainly Clippy.JS.
-Also Used some nice built in browser tools, such as Text to Speech and local storage for saving the attributes.
+Also used some nice built in browser tools, such as Text to Speech and local storage for saving the attributes.
 
 Played around with more complex object types as well, like arrays and objects. Overall, very happy with the project, and glad I did it. No way of actually proving the learning works without actually diving in and programming. 
 
