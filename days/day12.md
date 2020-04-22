@@ -13,3 +13,5 @@ Watched C# advanced tips
 [C# Advanced](https://channel9.msdn.com/Series/C-Advanced)
 
 
+After studying, I played around with a few things.
+I want to, started to, refactor my TicTacToe game to C#... however, A coworker indicated that there are MS like Agents you can use in Javascript. I may start rewriting it in JS. That said, I wanted to find cheap hosting... which I did. Turns out Github offers hosting of basic websites. So I took my Javascript based text editor, and published it... it can be found [here](https://liukonen.github.io/htmlTextEditor/)
