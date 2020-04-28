@@ -3,7 +3,7 @@
 Spent too much time creating a home page. Much of the time was finding and editing images at first... lots of copy paste, then saying F it, and using a JSON object to generate the main aspect of the page.
 This way, if I want to add a project, I just update a JSON object, and it updates the page.
 Items I'd like to expand on would be the 2020 furlough log... perhaps loading a list from stripping an html file.. not sure yet.
-[Homepage]()
+[Homepage](https://liukonen.github.io/)
 
 Also had to get a hold of my HR person, as I had some questions with an email sent out.
 
