@@ -1,6 +1,6 @@
 # Day 9
 
-Decided and recomended I spend some time on JQuery,
+Decided and recommended I spend some time on JQuery,
 
 (JQuery Channel 9)[https://channel9.msdn.com/Series/Introduction-to-jQuery]
 
