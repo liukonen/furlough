@@ -17,3 +17,4 @@ I've been sharing notes on most of my posts, however, for this event, I will be 
 - Using Live Share for remote work in your team
 - What’s new with Application Insights & Azure Monitor
 - Modernize your Windows Server apps with containers
+- Social Hour: Mix, Mingle, and Celebrate
