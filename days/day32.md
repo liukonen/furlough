@@ -18,3 +18,5 @@ I've been sharing notes on most of my posts, however, for this event, I will be 
 - What’s new with Application Insights & Azure Monitor
 - Modernize your Windows Server apps with containers
 - Social Hour: Mix, Mingle, and Celebrate
+- SQL Server on Linux and containers for developers
+- The importance of an Identity Platform
