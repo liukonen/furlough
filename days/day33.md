@@ -2,7 +2,7 @@
 ## MS Build Day 2
 Participated in the MS Build Note section as well as a focus group on VS for Mac (Never thought I would ever do that, for one, I never thought I would own a mac, let alone develop on one). What else... more comments / questions on some of the topics. Everyone has been super helpful and I am glad I got to do this! I would in a heartbeat go to an in live version of this if I got the chance... I've learned alot about new products coming out!
 
-## Seasons
+## Sessions
 - Power BI for BI pros and Data Engineers- Build or no build
 - A renewable powered future 
 - The 30 Min Beginner Rust Coding Challenge

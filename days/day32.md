@@ -4,7 +4,7 @@
 Sharing stories and ideas with others via twitter, and watching the streams
 I've been sharing notes on most of my posts, however, for this event, I will be only sharing the seasions I attend.
 
-## Seasons
+## Sessions
 - Intro - KeyNote - Imagine Cup
 - Hanselman notes
 - Scott Guthrie
