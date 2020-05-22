@@ -8,6 +8,7 @@ This machine also as Catalena on a separate drive and Cloverleaf seems to pick u
 At some point however, I will want to upgrade the drives internal to a 1TB SSD... with 4 partitions at 250gigs.
  One for Linux, Windows, and Mac, as well as a 250 Partition for personal files (even though I have a network drive for that). 
 Also waiting on the new WIFI card which should arrive today for the laptop, so that Mac OS can connect to WIFI and I'm not stuck with a cord.
+
  Today, I think I will focus on starting to develop a win UI for NATS.
  I want a Xamerain based UI so the app can run on all platforms. 
 We'll see if I can get what I want with it though.
