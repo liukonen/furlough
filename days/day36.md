@@ -1,0 +1,7 @@
+# Day 36    
+Started the morning with a bike ride of all things. It was too nice out not too. I started riding again this weekend. It helps with the anxiety and depression, and gets me outside again.
+
+Afterward, I decided to watch [How to think like a developer](https://www.youtube.com/watch?v=6avJHaC3C2U)
+I also decided over the weekend that I wanted to port NATS as more then just a console application. While .net 5 and the new UWP framework is not out yet, I decided to make it a winforms app, since that is MIT complient on all platforms using mono, as well as possibly compiling it for the Mac Platform...
+That said, I did not get as far as I wanted. I was able to port the code over to .net standard, create a .net core, and .net framework CLI interface (not tested) as well as a .net Winform UI. 
+that said, I am struggling to get my Windows index items returning, as well as my own SQLite index to work. Much of it is related to DLL's not copying when they should. Still need to investigate this further.
