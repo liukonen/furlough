@@ -4,3 +4,4 @@
 - [Day 36](days/day36.md)
 - [Day 37](days/day37.md)
 - [Day 38 DockerCon](days/day38.md)
+- [Day 39 ML.Net](days/day39.md)
