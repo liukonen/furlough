@@ -1,4 +1,4 @@
-# Day 7: Python 
+# Day 7 Python 
 - Starting the day learning python... while I have a base understanding of it... I wanted to learn more [Intro to Python Development](https://channel9.msdn.com/Series/Intro-to-Python-Development)
     - with some breaks, got through 1-23, skipping many of the demos, since I understood exactly what they were talking about in the items
     - For the heck of it, played around with installing GitKracken and Visual Studio Code for writing up and sharing these writeups

@@ -1,4 +1,4 @@
-# Day 2: 
+# Day 2
 ## Modules 1 and 2 of Intro to MVC
 [ASP-NET-MVC](https://channel9.msdn.com/Series/Introduction-to-ASP-NET-MVC/01)
 
