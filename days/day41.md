@@ -1,0 +1,4 @@
+# Day 41
+## Cross platform time
+
+I finished up my work with Simple Weather Tray. It was a nightmare since I developed it thinking I'd never port it over, so there were some hardcoded "menus" in the base. The base is now written in .Net Standard 2.0, and the UI is written in GTK. I spent a bit of time porting all of the code to an App for mac and then compressing it all in a dmg package. This was tricky, since essentially with mac, an app is nothing more than a folder, and based on special files and item locations, it either works, or it doesn't. I also ported code to hide the app from the Dock, but for whatever reason, that does not want to work. Not a big deal, since I have some great looking icons for the app, but something I'd Ideally like to just work. 
