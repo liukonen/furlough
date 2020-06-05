@@ -1,0 +1,4 @@
+# Day 44
+
+Happy F#riday. Today I watched/attended the F# community Conf. That said, I have a lot to learn on the topic of F# in general.
+Last Yesterday I was able to get my source code "back" for my Simple weather app. Debating on what my next app to port maybe. Honestly, I'm not 100% happy with this port, since the EXE does not want to run on windows (probably because of missing GTK required packages not installed)... and the dock icon appears on the Mac OS version. I may split the UI into 3 different monsters as I did with NATS. I also want to circle back on NATS, because I might have a fix with the missing indexing... not 100%, but a working theory.
