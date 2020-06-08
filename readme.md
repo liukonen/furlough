@@ -9,3 +9,4 @@ This is just to go over what my focus / learnings have been on my time off work 
 - [Week 7](week7.md)
 - [Week 8](week8.md)
 - [Week 9](week9.md)
+- [Week 10](week10.md)
