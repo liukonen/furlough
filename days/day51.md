@@ -1,0 +1,3 @@
+# Day 51
+
+My furlough page was getting cluttered. Mainly on the paging functionality. I decided to write from scratch a paging functionality that handles 4 pages on the page at the same time, with previous and next buttons available. It took a bit, but I got it working. The other thing I worked on was the lazy loading of the content items themselves. This will decrease page loading considerably for mobile pages, It won't load card content unless they are visible. If you are searching for 16 items, you shouldn't have to generate 16 requests... but only request on items visible.  
