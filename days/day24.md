@@ -27,7 +27,7 @@ during the break I had some network issues at my place. This in turn killed my c
 - [video 4](https://channel9.msdn.com/Series/Web-API-Design/04)
     - from body and from uri can help
     -errors can return while also returning a payload
-    - whitelist rather than blacklist items part of request
+    - Aprove list rather than deny list items part of request
     - there are built-in helper classes for responses/conflicts, etc
     - you can have special exception messages that are reusable
     - you can overload exceptions, and filter / apply special errors to the exception (could we do this on service contracts at work I wonder?)

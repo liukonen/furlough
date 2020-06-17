@@ -1,0 +1,7 @@
+# Day 52
+
+I tried getting some things done. For starters, I'm setting up for WWDC (Apple Developer Conference) which is going on all of next week virtually. That said, the app they have is not compatible with my iMac (highest I can go is High Seira for an OS). My Laptop Hackintosh can load it, but the device crashes after 10-15 minutes of use. I also signed up for a Slack App webinar, on designing Slack apps. This afternoon, I am working on either a Docker Mac or a VM Mac on my gaming rig, and seeing if I can get it running there. At noon I attended Centares, The Cost of a GraphQL Migration" webinar. They went over a very high-level overview of why GraphQL can and should be used, however, I really didn't get a lot out of it.
+
+I also registered and set up liukonen.dev.... which is where my GitHub homepage will now be pointed from/to. Really excited to see what I can make of it. 
+
+One more thing that I did this morning was to remove some trigger words from a few of my codebases. These are words that in development have been around for decades, however, with recent trends, they have become discouraged on using. I figured I'd try to get ahead of the curve before any of my code gets either flagged or somehow banned.
