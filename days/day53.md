@@ -1,0 +1,3 @@
+# Day 53
+
+Yesterday after writing, I worked on getting a VM running, which I couldn't get to work... luckily, WWDC will be broadcast on Apples website, so I am not 100% dependent on my Hackintosh, which is prone to crash. I also looked at some other Dev sites and got inspiration on how to present items I know. So I refactored a good chunk of the about me page and implemented effects and lazy loading of images to the page. I also came up with a gameplan for tomorrow.
