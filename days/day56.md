@@ -7,10 +7,10 @@ One thing I do want to look at, either today or tomorrow is rewriting my parsing
 
 For WWDC 2020, I watched the following videos... I'll be watching more of today's videos tomorrow while waiting for the new batch. Also, tomorrow is a slack webcast.
 
-- (What's new in Swift)[https://developer.apple.com/videos/play/wwdc2020/10170/]
-- (Use model deployment and security with Core ML)[https://developer.apple.com/videos/play/wwdc2020/10152/]
+- (What's new in Swift](https://developer.apple.com/videos/play/wwdc2020/10170/)
+- (Use model deployment and security with Core ML)[https://developer.apple.com/videos/play/wwdc2020/10152/)
 
 Did not get a lot out of these, but watched
-- (Build Metal-based Core Image kernels with Xcode)[https://developer.apple.com/videos/play/wwdc2020/10021/]
-- (What's new in Low-Latency HLS)[https://developer.apple.com/videos/play/wwdc2020/10228/]
-- (Distribute binary frameworks as Swift packages)[https://developer.apple.com/videos/play/wwdc2020/10147/]
+- [Build Metal-based Core Image kernels with Xcode](https://developer.apple.com/videos/play/wwdc2020/10021/)
+- [What's new in Low-Latency HLS](https://developer.apple.com/videos/play/wwdc2020/10228/)
+- [Distribute binary frameworks as Swift packages](https://developer.apple.com/videos/play/wwdc2020/10147/)
